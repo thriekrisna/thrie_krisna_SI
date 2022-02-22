@@ -1,0 +1,3 @@
+section ini saya mempelajari
+apa itu yang dimaksud dengan git bagaimana intalasinya dan sudah saya praktekan
+lalu saya mempelajari bagaiaman cara clone dan bagaimana cara penggunaan github
